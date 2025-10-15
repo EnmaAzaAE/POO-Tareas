@@ -15,4 +15,3 @@
 
 **Docente:** *Walter Hugo Arboleda Mazo Ph.D*
 
-14 de octubre de 2025.</div>
