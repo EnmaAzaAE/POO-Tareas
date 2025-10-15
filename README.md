@@ -1,7 +1,7 @@
 [README.MD](https://github.com/user-attachments/files/22916951/README.MD)
 <div align="center" >
 
->**Entregable actividad 3**
+
 
 ***Programación Orientada a Objetos*** 
 
