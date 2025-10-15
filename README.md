@@ -11,7 +11,7 @@
 
 ***Universidad Nacional de Colombia – Sede Medellín***
 
-***Facultad de Minas***
+***Facultad de Ciencias***
 
 **Docente:** *Walter Hugo Arboleda Mazo Ph.D*
 
