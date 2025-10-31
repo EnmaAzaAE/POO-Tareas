@@ -6,9 +6,9 @@
 
 **Estudiantes:**
 
- Enma Aza Marín Marin 
- Sara Tangarife
- Juan Felipe Muñoz Arango
+ **Enma Aza Marín Marin** 
+ **Sara Tangarife**
+ **Juan Felipe Muñoz Arango**
 
 
 
@@ -17,5 +17,6 @@
 ***Facultad de Ciencias y Minas***
 
 **Docente:** *Walter Hugo Arboleda Mazo Ph.D*
+
 
 1 de noviembre de 2025.</div>
