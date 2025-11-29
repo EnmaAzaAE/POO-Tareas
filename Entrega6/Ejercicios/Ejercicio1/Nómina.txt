@@ -1,0 +1,17 @@
+NÓMINA DE EMPLEADOS
+========================================
+
+Empleado 1:
+  Nombre: Pablo
+  Apellidos: Alzate
+  Cargo: operativo
+  Género: masculino
+  Salario día: $40000.00
+  Días trabajados: 7
+  Otros ingresos: $0.00
+  Pagos salud: $50000.00
+  Aporte pensiones: $85000.00
+  Sueldo mensual: $145000.00
+------------------------------
+
+TOTAL NÓMINA: $145000.00
